@@ -1,8 +1,10 @@
 # Task-Tracker
-Overview
+
+## Overview
 
 Task-Tracker is a Java-based application built using Java 21, Spring Boot, Hibernate, and PostgreSQL. It helps users organize and manage their tasks by grouping them into task lists. Each task list can have a title, description, and progress tracking. Tasks within these lists include details such as title, description, due date, priority, and status.
-Features
+
+## Features
 
     Create and manage multiple task lists
 
@@ -12,7 +14,7 @@ Features
 
     Track progress of tasks inside task lists for better organization
 
-Technologies Used
+## Technologies Used
 
     Java 21
 
@@ -22,7 +24,7 @@ Technologies Used
 
     PostgreSQL (Database)
 
-Setup Instructions
+## Setup Instructions
 
     Clone the repository:
 
@@ -35,6 +37,6 @@ Setup Instructions
 
     Access the application endpoints as needed.
 
-License
+## License
 
 This project is licensed under the MIT License.
