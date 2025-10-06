@@ -24,6 +24,8 @@ Task-Tracker is a Java-based application built using Java 21, Spring Boot, Hiber
 
     PostgreSQL (Database)
 
+    Maven
+
 ## Setup Instructions
 
     Clone the repository:
